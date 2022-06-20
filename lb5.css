@@ -1,0 +1,69 @@
+/* @import url(/bootstrap-5.2.0-beta1-dist/css/bootstrap-grid.min.css); */
+
+body {
+    margin: 0;
+    font-family: var(--bs-body-font-family);
+    font-size: var(--bs-body-font-size);
+    font-weight: var(--bs-body-font-weight);
+    line-height: var(--bs-body-line-height);
+    color: var(--bs-body-color);
+    text-align: var(--bs-body-text-align);
+    background-color: var(--bs-body-bg);
+    -webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: transparent;
+}
+
+.block-1 {
+    background-color: var(--bs-green); 
+}
+
+.block-2 {
+    background-color: var(--bs-orange);
+}
+
+.block-3 {
+    background-color: var(--bs-indigo);
+}
+
+.block-4 {
+    background-color: var(--bs-cyan);
+}
+
+.block-5 {
+    background-color: var(--bs-yellow);
+}
+
+.block-6 {
+    background-color: var(--bs-red);
+}
+
+.block-7 {
+    background-color: var(--bs-red);
+}
+
+.block-8 {
+    background-color: var(--bs-teal);
+}
+
+.block-9 {
+    background-color: var(--bs-black);
+}
+
+.block-10 {
+    background-color: var(--bs-white);
+}
+
+.block-11 {
+    background-color: var(--bs-purple);
+}
+
+.block-12 {
+    background-color: var(--bs-pink);
+}
+
+/* [class ^="col" ]{
+    padding-top: 0.75rem;
+    padding-bottom: 0.75rem;
+    background-color: rgba(var(--bd-violet-rgb), 0.1);
+    border: 1px solid rgba(var(--bd-violet-rgb), 0.25);
+} */
